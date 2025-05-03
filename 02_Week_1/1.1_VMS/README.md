@@ -165,6 +165,8 @@ vi /etc/hosts
 
 - It’s most commonly used to log into remote servers and execute commands, but it also facilitates secure file transfers and other operations.
 
+- The default ssh port is 22. 
+
 ### Key Features of SSH:
 
 1. **Encryption**: SSH encrypts the data that’s sent between the client and the server, so even if someone intercepts the connection, they can’t read the data. This makes it much more secure than older protocols like Telnet or FTP, which transmit data in plaintext.
