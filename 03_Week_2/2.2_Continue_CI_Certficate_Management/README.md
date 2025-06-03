@@ -253,4 +253,14 @@ pm2 start npm --name "ws-server" -- start
 
 14. Refresh nginx config.
 
-15. Test that everything is working
+15. Test that everything is working.
+
+# Continuous Integration/Continuous Deployment (CI/CD)
+
+### Continuous Deployment (CD) :
+
+- Visit https://github.com/AmithBV0606/Monorepo-Deployment.git
+
+- Create a `.github` folder, where all the workflows(CI/CD) will be written.
+
+- GitHub will spawn a new server(ubuntu) which will then SSH into my EC2 instance and redeploy the code.
