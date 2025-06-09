@@ -1,0 +1,16 @@
+{
+  "name": "26.1_docker_part-1",
+  "version": "1.0.0",
+  "description": "Docker/containers are important for a few reasons -",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
