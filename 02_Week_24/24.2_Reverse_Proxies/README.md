@@ -1,4 +1,4 @@
-# AWS Deplyment 
+# 24.2 | AWS Deplyment and Reverse proxies
 
 ### Step 1 - What is AWS ?
 

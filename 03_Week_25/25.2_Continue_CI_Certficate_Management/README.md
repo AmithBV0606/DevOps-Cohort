@@ -1,4 +1,4 @@
-# Continuing CI, Certificate Management and Testing
+# 25.2 | Continuing CI, Certificate Management and Testing
 
 ### Topics to be covered : 
 
